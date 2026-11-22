@@ -5,7 +5,7 @@ An interactive data analytics project exploring Netflix's content library using 
 
 ## Dashboard Preview
 
-![Netflix Dashboard](Images/dashboard.png)
+![Netflix Dashboard](Images/dashboardpng.png)
 
 ## Dataset
 The project uses the Netflix Movies and TV Shows dataset containing **8,807 titles**.
